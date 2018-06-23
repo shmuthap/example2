@@ -1,1 +1,1 @@
-test 123
+/delttest 123
